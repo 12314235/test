@@ -1,0 +1,11 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\vitsl\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(20,12): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\vitsl\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\vitsl\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\vitsl\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,10): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+C:\Users\vitsl\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,10): message : этот аргумент используется в качестве размера буфера
+C:\Users\vitsl\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(22,7): warning C4101: group: неиспользованная локальная переменная
+C:\Users\vitsl\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(24,6): warning C4101: age: неиспользованная локальная переменная
+C:\Users\vitsl\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(25,6): warning C4101: course: неиспользованная локальная переменная
+C:\Users\vitsl\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(23,6): warning C4101: isu_number: неиспользованная локальная переменная
+  ConsoleApplication3.vcxproj -> C:\Users\vitsl\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
