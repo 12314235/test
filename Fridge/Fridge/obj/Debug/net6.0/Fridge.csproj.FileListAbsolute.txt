@@ -1,0 +1,15 @@
+C:\Users\vitsl\test\Fridge\Fridge\bin\Debug\net6.0\Fridge.exe
+C:\Users\vitsl\test\Fridge\Fridge\bin\Debug\net6.0\Fridge.deps.json
+C:\Users\vitsl\test\Fridge\Fridge\bin\Debug\net6.0\Fridge.runtimeconfig.json
+C:\Users\vitsl\test\Fridge\Fridge\bin\Debug\net6.0\Fridge.dll
+C:\Users\vitsl\test\Fridge\Fridge\bin\Debug\net6.0\Fridge.pdb
+C:\Users\vitsl\test\Fridge\Fridge\obj\Debug\net6.0\Fridge.csproj.AssemblyReference.cache
+C:\Users\vitsl\test\Fridge\Fridge\obj\Debug\net6.0\Fridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitsl\test\Fridge\Fridge\obj\Debug\net6.0\Fridge.AssemblyInfoInputs.cache
+C:\Users\vitsl\test\Fridge\Fridge\obj\Debug\net6.0\Fridge.AssemblyInfo.cs
+C:\Users\vitsl\test\Fridge\Fridge\obj\Debug\net6.0\Fridge.csproj.CoreCompileInputs.cache
+C:\Users\vitsl\test\Fridge\Fridge\obj\Debug\net6.0\Fridge.dll
+C:\Users\vitsl\test\Fridge\Fridge\obj\Debug\net6.0\refint\Fridge.dll
+C:\Users\vitsl\test\Fridge\Fridge\obj\Debug\net6.0\Fridge.pdb
+C:\Users\vitsl\test\Fridge\Fridge\obj\Debug\net6.0\Fridge.genruntimeconfig.cache
+C:\Users\vitsl\test\Fridge\Fridge\obj\Debug\net6.0\ref\Fridge.dll
